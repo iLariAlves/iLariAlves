@@ -1,6 +1,6 @@
 ### Oie! Eu sou a Larissa Alves, seja bem-vindo(a) ao meu GitHub!
 
-- 💻 Atualment trabalho com desenvolvimeno e análise de sistemas.
+- 💻 Atualment trabalho com desenvolvimento e análise de sistemas.
 - 📚 Cursando engenharia da computação.
 
 <div align="center">
